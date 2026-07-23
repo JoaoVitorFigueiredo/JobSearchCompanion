@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+google-genai>=2.14
+authlib
+python-multipart
+itsdangerous
+python-dotenv
